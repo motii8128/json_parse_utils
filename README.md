@@ -4,7 +4,7 @@
 |:--:|:--:|
 |Rust|[![Rust](https://github.com/motii8128/json_parse_utils/actions/workflows/rust.yml/badge.svg)](https://github.com/motii8128/json_parse_utils/actions/workflows/rust.yml)|
 
-#　使用方法
+# 使用方法
 Cargo.tomlに以下のように追記する
 ```toml
 serde = {version = "1.0.148", features = ["derive"]}
